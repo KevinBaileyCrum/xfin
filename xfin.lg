@@ -1,5 +1,6 @@
 htfcss: cmbx  font-weight: bold;
 htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmti  font-style: italic;
 File: xfin.html
 File: xfin.css
 File: xfin.tmp
@@ -122,8 +123,10 @@ Css: .figure img.graphics {margin-left:10%;}
 File: welcome.png
 File: home.png
 File: seas.png
+File: coax.png
 --- characters ---
 Font("cmr","10","10","109")
 Font("cmcsc","10","10","109")
 Font("cmcsc","10","10","172")
+Font("cmti","10","10","109")
 Font("cmbx","10","10","109")
