@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 AUG 2018 10:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 AUG 2018 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -162,36 +162,36 @@ e
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 99--104
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 111.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 107.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 111.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 107.
 
 <welcome.png, id=7, 1112.155pt x 655.44875pt>
 File: welcome.png Graphic file (type png)
  <use welcome.png>
-Package pdftex.def Info: welcome.png used on input line 116.
+Package pdftex.def Info: welcome.png used on input line 112.
 (pdftex.def)             Requested size: 452.96584pt x 266.95549pt.
 
-Overfull \hbox (69.86362pt too wide) in paragraph at lines 118--122
+Overfull \hbox (69.86362pt too wide) in paragraph at lines 114--118
 []\OT1/cmr/m/n/10.95 Enter your cruz cre-den-tials, af-ter-wards youll be di-re
 cted to a new URL https://www.xfinity.com/stream/.
  []
 
 
-Overfull \hbox (33.42567pt too wide) in paragraph at lines 118--122
+Overfull \hbox (33.42567pt too wide) in paragraph at lines 114--118
 \OT1/cmr/m/n/10.95 Note: you may get taken to an in-ter-me-di-ary in-for-ma-tio
 n re-lease page from https://login.ucsc.edu/
  []
@@ -199,10 +199,10 @@ n re-lease page from https://login.ucsc.edu/
 <home.png, id=9, 1105.12875pt x 926.46124pt>
 File: home.png Graphic file (type png)
  <use home.png>
-Package pdftex.def Info: home.png used on input line 129.
+Package pdftex.def Info: home.png used on input line 125.
 (pdftex.def)             Requested size: 452.9679pt x 379.72433pt.
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 129--132
+Overfull \hbox (24.0pt too wide) in paragraph at lines 125--128
 [][] 
  []
 
@@ -210,7 +210,7 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 129--132
 <seas.png, id=22, 1017.8025pt x 419.5675pt>
 File: seas.png Graphic file (type png)
  <use seas.png>
-Package pdftex.def Info: seas.png used on input line 163.
+Package pdftex.def Info: seas.png used on input line 159.
 (pdftex.def)             Requested size: 452.9679pt x 186.72935pt.
  [3 <./seas.png>]
 (./xfin.aux) ) 
@@ -228,7 +228,7 @@ m/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
 cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on xfin.pdf (4 pages, 5953464 bytes).
+Output written on xfin.pdf (4 pages, 5953924 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
