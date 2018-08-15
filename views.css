@@ -1,0 +1,11 @@
+/* Sylesheet for the html doc. */  
+/* After running htlatex add the views.css */ 
+/* as stylesheet */ 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
