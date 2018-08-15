@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 AUG 2018 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 AUG 2018 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,10 +215,10 @@ Package pdftex.def Info: seas.png used on input line 159.
  [3 <./seas.png>]
 (./xfin.aux) ) 
 Here is how much of TeX's memory you used:
- 1929 strings out of 493014
- 27631 string characters out of 6133351
- 88658 words of memory out of 5000000
- 5465 multiletter control sequences out of 15000+600000
+ 1928 strings out of 493014
+ 27624 string characters out of 6133351
+ 88653 words of memory out of 5000000
+ 5464 multiletter control sequences out of 15000+600000
  5712 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,33p,231b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -228,7 +228,7 @@ m/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
 cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on xfin.pdf (4 pages, 5954537 bytes).
+Output written on xfin.pdf (4 pages, 5954545 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
