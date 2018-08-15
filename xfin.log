@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 AUG 2018 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 AUG 2018 10:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -182,32 +182,56 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 <welcome.png, id=7, 1112.155pt x 655.44875pt>
 File: welcome.png Graphic file (type png)
  <use welcome.png>
-Package pdftex.def Info: welcome.png used on input line 115.
+Package pdftex.def Info: welcome.png used on input line 116.
 (pdftex.def)             Requested size: 452.96584pt x 266.95549pt.
 
-Overfull \hbox (23.99794pt too wide) in paragraph at lines 115--116
+Overfull \hbox (69.86362pt too wide) in paragraph at lines 118--122
+[]\OT1/cmr/m/n/10.95 Enter your cruz cre-den-tials, af-ter-wards youll be di-re
+cted to a new URL https://www.xfinity.com/stream/.
+ []
+
+
+Overfull \hbox (33.42567pt too wide) in paragraph at lines 118--122
+\OT1/cmr/m/n/10.95 Note: you may get taken to an in-ter-me-di-ary in-for-ma-tio
+n re-lease page from https://login.ucsc.edu/
+ []
+
+<home.png, id=9, 1105.12875pt x 926.46124pt>
+File: home.png Graphic file (type png)
+ <use home.png>
+Package pdftex.def Info: home.png used on input line 129.
+(pdftex.def)             Requested size: 452.9679pt x 379.72433pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 129--132
 [][] 
  []
 
-[1 <./welcome.png>] [2] (./xfin.aux) ) 
+[1 <./welcome.png>] [2 <./home.png>]
+<seas.png, id=22, 1017.8025pt x 419.5675pt>
+File: seas.png Graphic file (type png)
+ <use seas.png>
+Package pdftex.def Info: seas.png used on input line 163.
+(pdftex.def)             Requested size: 452.9679pt x 186.72935pt.
+ [3 <./seas.png>]
+(./xfin.aux) ) 
 Here is how much of TeX's memory you used:
- 1918 strings out of 493014
- 27506 string characters out of 6133351
+ 1928 strings out of 493014
+ 27624 string characters out of 6133351
  88653 words of memory out of 5000000
- 5456 multiletter control sequences out of 15000+600000
+ 5464 multiletter control sequences out of 15000+600000
  5712 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,33p,231b,151s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb>
-Output written on xfin.pdf (3 pages, 2129935 bytes).
+ 38i,5n,33p,231b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on xfin.pdf (4 pages, 5953464 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
