@@ -1,4 +1,4 @@
 # xfin
 cre instuctions for connecting to xoc 
-The Final Product is 
-### xfin.pdf
+The Final Product can be viewed as either ***xfin.pdf***
+or as ***xfin.html***
